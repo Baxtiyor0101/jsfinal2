@@ -146,17 +146,17 @@
 
 //"ABC" va "BCA" berilgan bo'lsa true yani birinchi stringda bor
 // harfllar ikkinchida ham bo'lsa aks holda falsechiqishi kk
-let s=0;
-str1="ABC";
-str2="BCA";
-for (let i = 0; i < srt1.length; i++) {
-    if (!(str2.includes(str1[i]))) {
-        s++;
-    }
-}
-if (s>0) {
-    console.log(false)
-}
-else{
-    console.log(true);
-}
+// let s=0;
+// str1="ABC";
+// str2="BCA";
+// for (let i = 0; i < srt1.length; i++) {
+//     if (!(str2.includes(str1[i]))) {
+//         s++;
+//     }
+// }
+// if (s>0) {
+//     console.log(false)
+// }
+// else{
+//     console.log(true);
+// }
